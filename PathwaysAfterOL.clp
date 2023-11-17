@@ -5,6 +5,8 @@
 ;;;
 ;;; Disclaimer: This system serves as a guide only. 
 ;;;             Do more research before making a decision
+;;;
+;;; To execute: load, reset and run.
 ;;;=========================================================================
 ;;DEFFUNCTIONS 
 
